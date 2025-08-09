@@ -67,6 +67,4 @@
 
 ![Moein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moeinakrami&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moeinakrami&hide=html&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Moeinakrami&theme=radical)
