@@ -65,4 +65,9 @@
 
 ---
 
-![Moein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moeinakrami&show_icons=true&hide_title=true&count_private=true&theme=radical)
+## 📊 GitHub Activity Summary
+
+| 📦 Repositories | 📝 Total Commits | 📅 GitHub Since | ⭐ Total Stars |
+|-----------------|-----------------|-----------------|---------------|
+| ![Repositories](https://img.shields.io/github/repo-size/Moeinakrami?style=for-the-badge) | ![Commits](https://img.shields.io/github/commit-activity/m/Moeinakrami?style=for-the-badge) | ![Since](https://img.shields.io/github/created/Moeinakrami?style=for-the-badge) | ![Stars](https://img.shields.io/github/stars/Moeinakrami?style=for-the-badge) |
+
